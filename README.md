@@ -1,2 +1,1 @@
-# musicbot
-Music finder in tg
+#music finder by gyoza
